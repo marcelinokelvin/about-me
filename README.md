@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelinokelvin
 - 👀 I’m interested in Front-End and UI/UX
-- 🌱 I’m currently learning and Mastering Figma
+- 🌱 I’m currently learning Figma
 - 📫 marcellinokelvin@gmail.com
 
 <!---
